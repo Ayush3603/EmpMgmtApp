@@ -1,0 +1,22 @@
+# Java/Maven
+/target/
+*.log
+hs_err_*.log
+replay_*.log
+
+# IDE
+/.idea/
+/.vscode/
+.classpath
+.project
+.settings/
+
+# Build outputs
+/bin/
+
+# Local config and data (do not commit secrets)
+config.properties
+/data/
+
+# Local libs (use Maven deps instead)
+/lib/
