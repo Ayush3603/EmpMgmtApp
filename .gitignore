@@ -15,7 +15,6 @@ replay_*.log
 /bin/
 
 # Local config and data (do not commit secrets)
-config.properties
 /data/
 
 # Local libs (use Maven deps instead)
